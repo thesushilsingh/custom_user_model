@@ -88,9 +88,9 @@ WSGI_APPLICATION = 'customusermodel.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "task2",
-        "USER": "root",
-        "PASSWORD": "8962342922@Ss",
+        "NAME": "",
+        "USER": "",
+        "PASSWORD": "",
         "HOST": "127.0.0.1",
         "PORT": "3306",
     }
